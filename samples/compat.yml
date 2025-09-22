@@ -1,4 +1,4 @@
-name: Compatibility report
+name: Compatibility Report
 on:
   workflow_dispatch:
   push:
